@@ -5,7 +5,7 @@ import styled from "styled-components"
 const ContentContainer = styled.div`
   max-width: 680px;
   margin: auto;
-  padding: 2rem;
+  padding: 0.5rem;
 `
 
 function Content(props) {
